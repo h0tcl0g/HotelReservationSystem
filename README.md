@@ -5,4 +5,5 @@
 ![チェックイン/チェックアウト](https://imgur.com/2d2Prin.png "チェックイン/アウト")
 
 画像リンクはここで作成
+https://imgur.com/
 
