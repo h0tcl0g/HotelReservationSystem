@@ -1,3 +1,8 @@
-:オブジェクト図_S1
+# クラス図_予約段階
+![予約段階](https://imgur.com/3Zo3pqF.png "予約段階")
 
-[オブジェクト図_S1](https://imgur.com/rTEPdhI.png)
+# クラス図_チェックイン/チェックアウト
+![チェックイン/チェックアウト](https://imgur.com/2d2Prin.png "チェックイン/アウト")
+
+画像リンクはここで作成
+https://imgur.com/
