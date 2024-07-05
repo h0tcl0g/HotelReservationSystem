@@ -81,7 +81,7 @@
 (7) システムが「支払い情報が無効です」と表示し、高橋さんに再入力を促す。  
 
 # コラボレーション図
-![コラボレーション図](https://imgur.com/zyFliW1.png "コラボレーション図")
+![コラボレーション図](https://imgur.com/undefined.png "コラボレーション図")
 
 # クラス図
 ![クラス図](https://imgur.com/uGAqKZk.png "クラス図")
