@@ -84,7 +84,7 @@
 ![コラボレーション図](https://imgur.com/Wyd0Bv9.png "コラボレーション図")
 
 # クラス図
-![クラス図](https://imgur.com/uGAqKZk.png "クラス図")
+![クラス図](https://imgur.com/G82rbm3.png "クラス図")
 
 画像リンクはここで作成  
 https://imgur.com/
